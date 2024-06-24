@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umarulshahin v h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umarulshahin v h" height="30" width="40" /></a>
-<a href="https://fb.com/umarulshahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umarulshahin" height="30" width="40" /></a>
+<a href="https://fb.com/Shahin S Umar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umarulshahin" height="30" width="40" /></a>
 <a href="https://instagram.com/umarulshahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umarulshahin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/umarulshahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umarulshahin" height="30" width="40" /></a>
 <a href="https://discord.gg/umarulshahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="umarulshahin" height="30" width="40" /></a>
